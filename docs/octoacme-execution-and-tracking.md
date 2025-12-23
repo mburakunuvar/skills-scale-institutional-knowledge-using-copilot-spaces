@@ -37,4 +37,40 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] Branching and PR conventions documented in repo
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
-- [ ] Risk register updated weekly
+- [ ] Risk register reviewed and updated weekly with team
+- [ ] Stakeholder reviews scheduled at key milestones
+- [ ] Cross-functional dependencies tracked and updated
+- [ ] Test coverage monitored and maintained
+- [ ] Security scans reviewed and vulnerabilities addressed
+
+## New Contributor Onboarding Checklist
+
+Use this checklist to help new team members get up to speed quickly:
+
+### Access & Setup
+- [ ] Repository access granted (read/write permissions)
+- [ ] CI/CD access and credentials configured
+- [ ] Development environment set up and verified
+- [ ] Communication channels added (Slack, Teams, email lists)
+- [ ] Project board and tracking tool access granted
+
+### Artifact Review
+- [ ] Review project one-pager and goals
+- [ ] Read through current sprint/iteration backlog
+- [ ] Review risk register and active dependencies
+- [ ] Familiarize with Definition of Done (DoD)
+- [ ] Review recent retrospective notes and action items
+- [ ] Read through release notes from last 2-3 releases
+
+### Communication & Integration
+- [ ] Attend team standup and introduction
+- [ ] Schedule 1:1s with PM, Product Lead, and key team members
+- [ ] Review communication cadence (standups, syncs, demos)
+- [ ] Understand escalation paths and who to contact for questions
+- [ ] Join relevant meetings and accept recurring invites
+
+### First Contributions
+- [ ] Complete a small, well-defined task to familiarize with workflows
+- [ ] Submit first PR following team conventions
+- [ ] Participate in code review (review someone else's PR)
+- [ ] Ask questions and request clarifications as needed

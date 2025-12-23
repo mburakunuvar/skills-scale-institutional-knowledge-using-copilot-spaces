@@ -41,3 +41,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] Risk register initialized with key risks and dependencies
+- [ ] Cross-functional sign-off obtained (Dev, QA, DevOps, UX, Data)
+- [ ] Stakeholder communication plan established
+- [ ] Dependencies with other teams identified and documented

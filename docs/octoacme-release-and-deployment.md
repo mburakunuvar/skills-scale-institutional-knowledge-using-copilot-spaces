@@ -22,6 +22,10 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - [ ] Deploy to production (automated pipeline preferred)
 - [ ] Run post-deploy verifications
 - [ ] Announce release to stakeholders and support
+- [ ] Risk register updated with deployment status
+- [ ] Stakeholder sign-off obtained for major releases
+- [ ] Rollback plan reviewed and validated
+- [ ] Monitoring and alerts verified
 
 ## Rollback & Incident Playbook
 - If a deployment fails or causes a critical issue:
